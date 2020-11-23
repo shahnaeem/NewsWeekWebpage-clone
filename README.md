@@ -3,20 +3,20 @@
 
 # NYT-homepage- Microverse Project
 
-This is a clone of the New York Times original web page. It is a project to show the implementation of HTML and CSS positioning. It is done as part of the microverse program for the third project of the curriculum.
+This is a clone of the NewsWeek original web page. It is a project to show the implementation of HTML and CSS using bootstrap 4.5 for responsive webpage. It is done as part of the microverse program of the curriculum.
 
 ![screenshot](./assets/screenshot.png)
 
 
 ## Built With
 
-- HTML & CSS
+- HTML & CSS, Bootstrap 4.5
 - Visual Studio, Git & GitHub
 
 
 ## Live Demo
 
-[Live Demo Link](https://shahnaeem.github.io/NYT-homepage/)
+[Live Demo Link](https://shahnaeem.github.io/NewsWeekWebpage-clone/)
 
 
 ## Getting Started
@@ -28,9 +28,9 @@ To run this project, you need a computer or a mobile devise with any operating s
 ### Setup
 Just download the code.
 ### Install
-Go to he downloaded folder and search for index.html file and open it in your favorite web browser.
+Go to the downloaded folder and search for index.html file and open it in your favorite web browser.
 ### Usage
-This projects diplays the videos.
+This project demontrates the use of bootstrap to create a webpage and make it responsive.
 
 
 ## Authors
@@ -45,7 +45,7 @@ This projects diplays the videos.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/shahnaeem/NYT-homepage/issues).
+Feel free to check the [issues page](https://github.com/shahnaeem/NewsWeekWebpage-clone/issues).
 
 
 ## Show your support
