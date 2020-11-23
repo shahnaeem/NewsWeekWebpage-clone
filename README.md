@@ -1,7 +1,7 @@
 
 ![name-of-you-image](https://img.shields.io/badge/Microverse-blueviolet)
 
-# NYT-homepage- Microverse Project
+# NewsWeek-homepage- Microverse Project
 
 This is a clone of the NewsWeek original web page. It is a project to show the implementation of HTML and CSS using bootstrap 4.5 for responsive webpage. It is done as part of the microverse program of the curriculum.
 
@@ -56,7 +56,7 @@ Give a ⭐️ if you like this project!
 
 ![name-of-you-image](https://img.shields.io/badge/Microverse-blueviolet)
 
-# NYT-homepage- Microverse Project
+# NewsWeek-homepage- Microverse Project
 
 This is a clone of the NewsWeek original web page. It is a project to show the implementation of HTML and CSS using bootstrap 4.5 for responsive webpage. It is done as part of the microverse program of the curriculum.
 
