@@ -1,0 +1,37 @@
+.my-nav-class {
+    
+    background-color: red;
+    height: 55px;
+}
+.first-button {
+    color: black;
+    background-color: #fbe401;
+    border-radius: 11px;
+    width: 92px;
+    font-size: 12px;
+    font-weight: bold;
+  }
+
+  /* hr {
+        border: 2px solid lightgrey;
+  }  */
+
+  .text-cap {
+      color: red;
+      margin-top: 50%;
+      font-weight: bold;
+  }
+
+  .hrvs {
+      width: 50%;
+      color: black;
+  }
+
+  .dot {
+    height: 35px;
+    width: 35px;
+    background-color: black;
+    border-radius: 100%;
+    color: white;
+  }
+
