@@ -60,7 +60,7 @@ Give a ⭐️ if you like this project!
 
 This is a clone of the NewsWeek original web page. It is a project to show the implementation of HTML and CSS using bootstrap 4.5 for responsive webpage. It is done as part of the microverse program of the curriculum.
 
-![screenshot](./assets/screenshot.png)
+![screenshot](./screenshot.png)
 
 
 ## Built With
